@@ -6,7 +6,7 @@ SECRET_KEY = "asghnjadfbtywyn"
 OPENAI_API_KEY = "sk-3PSmSR4ligxP970oeXEykv2IQNj3IGZ71vgETCLh0iLj7v7i"
 
 # openAi 官方 api
-URL = "https://api.openai.com/v1/chat/completions"
+URL = "https://api.chatanywhere.tech/v1/chat/completions"
 
 # openAi 代理 api
-# URL = "https://api.chatanywhere.tech"
+# URL = "https://open.aiproxy.xyz/v1/chat/completions"
