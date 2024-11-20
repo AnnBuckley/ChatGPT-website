@@ -9,4 +9,4 @@ OPENAI_API_KEY = "sk-3PSmSR4ligxP970oeXEykv2IQNj3IGZ71vgETCLh0iLj7v7i"
 URL = "https://api.openai.com/v1/chat/completions"
 
 # openAi 代理 api
-# URL = "https://api.chatanywhere.tech/v1/chat/completions"
+# URL = "https://api.chatanywhere.tech"
